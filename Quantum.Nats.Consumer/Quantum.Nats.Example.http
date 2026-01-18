@@ -1,0 +1,6 @@
+@Quantum.Nats.Example_HostAddress = http://localhost:5128
+
+GET {{Quantum.Nats.Example_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

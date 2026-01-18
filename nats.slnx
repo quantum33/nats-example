@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Quantum.Nats.Consumer/Quantum.Nats.Consumer.csproj" />
+  <Project Path="Quantum.Nats.Publisher/Quantum.Nats.Publisher.csproj" />
+</Solution>
